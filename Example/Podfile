@@ -1,0 +1,6 @@
+use_frameworks!
+target 'CustomField_Tests' do
+  pod 'CustomField', :path => '../'
+  
+  
+end
