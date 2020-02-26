@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'CustomField'
-  s.version          = '0.1.0'
+  s.version          = '1.0.2'
   s.summary          = 'Lib for match LRTextField and MFTextField for intern use'
 
 # This description is used to generate tags and improve search results.

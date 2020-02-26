@@ -101,7 +101,17 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		4B9F7FA82406F70900A30C3F /* Classes */ = {
+		814C616266311471454AA060C133F348 /* CustomField */ = {
+			isa = PBXGroup;
+			children = (
+				AB0BAACB04259129F960A95A807EAB05 /* Pod */,
+				D98BE13AB7DF05CA582B1CAD7FDF4CA9 /* Support Files */,
+			);
+			name = CustomField;
+			path = ../..;
+			sourceTree = "<group>";
+		};
+		AB0BAACB04259129F960A95A807EAB05 /* Pod */ = {
 			isa = PBXGroup;
 			children = (
 				4B9F7FB62406F71800A30C3F /* CustomTextField.h */,
@@ -119,24 +129,6 @@
 				4B9F7FB02406F71800A30C3F /* UIImage+MFTint.m */,
 				4B9F7FB72406F71800A30C3F /* UITextField+MFClearButton.h */,
 				4B9F7FAE2406F71800A30C3F /* UITextField+MFClearButton.m */,
-			);
-			name = Classes;
-			sourceTree = "<group>";
-		};
-		814C616266311471454AA060C133F348 /* CustomField */ = {
-			isa = PBXGroup;
-			children = (
-				AB0BAACB04259129F960A95A807EAB05 /* Pod */,
-				D98BE13AB7DF05CA582B1CAD7FDF4CA9 /* Support Files */,
-			);
-			name = CustomField;
-			path = ../..;
-			sourceTree = "<group>";
-		};
-		AB0BAACB04259129F960A95A807EAB05 /* Pod */ = {
-			isa = PBXGroup;
-			children = (
-				4B9F7FA82406F70900A30C3F /* Classes */,
 				37121DBE8D27419350A24F6B2D8AC66B /* CustomField.podspec */,
 				3FE207CA81F209B9C498831BF5699D96 /* LICENSE */,
 				113E61ADC692A6C7AB99A1B3FEF1AA69 /* README.md */,
