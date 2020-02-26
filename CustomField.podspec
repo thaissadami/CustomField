@@ -28,7 +28,7 @@ Pod::Spec.new do |s|
 
   s.ios.deployment_target = '8.0'
 
-  s.source_files = 'CustomField/Classes/**/*'
+  s.source_files = 'CustomField/Pod/Classes/**/*'
   
   # s.resource_bundles = {
   #   'CustomField' => ['CustomField/Assets/*.png']
