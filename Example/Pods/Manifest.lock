@@ -1,0 +1,16 @@
+PODS:
+  - CustomField (0.1.0)
+
+DEPENDENCIES:
+  - CustomField (from `../`)
+
+EXTERNAL SOURCES:
+  CustomField:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CustomField: dc1ac08950ba1886412691ecbce8505d80756ff5
+
+PODFILE CHECKSUM: 36ee6c5f31e7d6d4aa523d673b45c36184b80c47
+
+COCOAPODS: 1.9.0.beta.3

@@ -1,0 +1,6 @@
+framework module CustomField {
+  umbrella header "CustomField-umbrella.h"
+
+  export *
+  module * { export * }
+}

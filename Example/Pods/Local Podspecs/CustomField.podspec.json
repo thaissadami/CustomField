@@ -1,0 +1,22 @@
+{
+  "name": "CustomField",
+  "version": "0.1.0",
+  "summary": "A short description of CustomField.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/thaissadami/CustomField",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "thaissadami": "thais.sadami@brivia.com.br"
+  },
+  "source": {
+    "git": "https://github.com/thaissadami/CustomField.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "CustomField/Classes/**/*"
+}
