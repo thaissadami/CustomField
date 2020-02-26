@@ -8,20 +8,20 @@
 
 /* Begin PBXBuildFile section */
 		0E133F0E2A87ECA8C8F07C7C2C561708 /* Pods-CustomField_Tests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = CF3136B4F8A958DAAE0FA764B48AAF64 /* Pods-CustomField_Tests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		4B9F7FD72407176400A30C3F /* UIFont+MaterialTextField.m in Sources */ = {isa = PBXBuildFile; fileRef = 4B9F7FC82407176300A30C3F /* UIFont+MaterialTextField.m */; };
-		4B9F7FD82407176400A30C3F /* LRTextField.m in Sources */ = {isa = PBXBuildFile; fileRef = 4B9F7FC92407176300A30C3F /* LRTextField.m */; };
-		4B9F7FD92407176400A30C3F /* UIImage+MFTint.m in Sources */ = {isa = PBXBuildFile; fileRef = 4B9F7FCA2407176300A30C3F /* UIImage+MFTint.m */; };
-		4B9F7FDA2407176400A30C3F /* UIFont+MaterialTextField.h in Headers */ = {isa = PBXBuildFile; fileRef = 4B9F7FCB2407176300A30C3F /* UIFont+MaterialTextField.h */; };
-		4B9F7FDB2407176400A30C3F /* UITextField+MFClearButton.h in Headers */ = {isa = PBXBuildFile; fileRef = 4B9F7FCC2407176300A30C3F /* UITextField+MFClearButton.h */; };
-		4B9F7FDC2407176400A30C3F /* LRTextField.h in Headers */ = {isa = PBXBuildFile; fileRef = 4B9F7FCD2407176400A30C3F /* LRTextField.h */; };
-		4B9F7FDD2407176400A30C3F /* MFTextField.h in Headers */ = {isa = PBXBuildFile; fileRef = 4B9F7FCE2407176400A30C3F /* MFTextField.h */; };
-		4B9F7FDE2407176400A30C3F /* UIColor+MaterialTextField.m in Sources */ = {isa = PBXBuildFile; fileRef = 4B9F7FCF2407176400A30C3F /* UIColor+MaterialTextField.m */; };
-		4B9F7FE02407176400A30C3F /* UIImage+MFTint.h in Headers */ = {isa = PBXBuildFile; fileRef = 4B9F7FD12407176400A30C3F /* UIImage+MFTint.h */; };
-		4B9F7FE12407176400A30C3F /* MaterialTextField.h in Headers */ = {isa = PBXBuildFile; fileRef = 4B9F7FD22407176400A30C3F /* MaterialTextField.h */; };
-		4B9F7FE22407176400A30C3F /* MFTextField.m in Sources */ = {isa = PBXBuildFile; fileRef = 4B9F7FD32407176400A30C3F /* MFTextField.m */; };
-		4B9F7FE32407176400A30C3F /* CustomTextField.h in Headers */ = {isa = PBXBuildFile; fileRef = 4B9F7FD42407176400A30C3F /* CustomTextField.h */; };
-		4B9F7FE42407176400A30C3F /* UITextField+MFClearButton.m in Sources */ = {isa = PBXBuildFile; fileRef = 4B9F7FD52407176400A30C3F /* UITextField+MFClearButton.m */; };
-		4B9F7FE52407176400A30C3F /* UIColor+MaterialTextField.h in Headers */ = {isa = PBXBuildFile; fileRef = 4B9F7FD62407176400A30C3F /* UIColor+MaterialTextField.h */; };
+		4B9F7FF424071D0E00A30C3F /* MaterialTextField.h in Headers */ = {isa = PBXBuildFile; fileRef = 4B9F7FE624071D0D00A30C3F /* MaterialTextField.h */; };
+		4B9F7FF524071D0E00A30C3F /* UIColor+MaterialTextField.h in Headers */ = {isa = PBXBuildFile; fileRef = 4B9F7FE724071D0D00A30C3F /* UIColor+MaterialTextField.h */; };
+		4B9F7FF624071D0E00A30C3F /* UIColor+MaterialTextField.m in Sources */ = {isa = PBXBuildFile; fileRef = 4B9F7FE824071D0D00A30C3F /* UIColor+MaterialTextField.m */; };
+		4B9F7FF724071D0E00A30C3F /* LRTextField.m in Sources */ = {isa = PBXBuildFile; fileRef = 4B9F7FE924071D0D00A30C3F /* LRTextField.m */; };
+		4B9F7FF824071D0E00A30C3F /* UIImage+MFTint.m in Sources */ = {isa = PBXBuildFile; fileRef = 4B9F7FEA24071D0D00A30C3F /* UIImage+MFTint.m */; };
+		4B9F7FF924071D0E00A30C3F /* UITextField+MFClearButton.h in Headers */ = {isa = PBXBuildFile; fileRef = 4B9F7FEB24071D0D00A30C3F /* UITextField+MFClearButton.h */; };
+		4B9F7FFA24071D0E00A30C3F /* LRTextField.h in Headers */ = {isa = PBXBuildFile; fileRef = 4B9F7FEC24071D0D00A30C3F /* LRTextField.h */; };
+		4B9F7FFB24071D0E00A30C3F /* UITextField+MFClearButton.m in Sources */ = {isa = PBXBuildFile; fileRef = 4B9F7FED24071D0D00A30C3F /* UITextField+MFClearButton.m */; };
+		4B9F7FFC24071D0E00A30C3F /* MFTextField.h in Headers */ = {isa = PBXBuildFile; fileRef = 4B9F7FEE24071D0D00A30C3F /* MFTextField.h */; };
+		4B9F7FFD24071D0E00A30C3F /* UIImage+MFTint.h in Headers */ = {isa = PBXBuildFile; fileRef = 4B9F7FEF24071D0E00A30C3F /* UIImage+MFTint.h */; };
+		4B9F7FFE24071D0E00A30C3F /* CustomTextField.h in Headers */ = {isa = PBXBuildFile; fileRef = 4B9F7FF024071D0E00A30C3F /* CustomTextField.h */; };
+		4B9F7FFF24071D0E00A30C3F /* UIFont+MaterialTextField.m in Sources */ = {isa = PBXBuildFile; fileRef = 4B9F7FF124071D0E00A30C3F /* UIFont+MaterialTextField.m */; };
+		4B9F800024071D0E00A30C3F /* MFTextField.m in Sources */ = {isa = PBXBuildFile; fileRef = 4B9F7FF224071D0E00A30C3F /* MFTextField.m */; };
+		4B9F800124071D0E00A30C3F /* UIFont+MaterialTextField.h in Headers */ = {isa = PBXBuildFile; fileRef = 4B9F7FF324071D0E00A30C3F /* UIFont+MaterialTextField.h */; };
 		4CB6AC63A9FCB4528FE02C8309E635CC /* CustomField-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 4B49C38AE1F6390A20CC6B7436475008 /* CustomField-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		5F52FB967A6836DDDDAE21965CB1EA57 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */; };
 		C89678D8C9DA395E7DA6A5AB40188341 /* Pods-CustomField_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 4243C5CE1EB61E3D7F745948A364FABF /* Pods-CustomField_Tests-dummy.m */; };
@@ -49,20 +49,20 @@
 		4243C5CE1EB61E3D7F745948A364FABF /* Pods-CustomField_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-CustomField_Tests-dummy.m"; sourceTree = "<group>"; };
 		449E4C0A7071DD54AA5B8783D660901D /* CustomField.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = CustomField.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		4B49C38AE1F6390A20CC6B7436475008 /* CustomField-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "CustomField-umbrella.h"; sourceTree = "<group>"; };
-		4B9F7FC82407176300A30C3F /* UIFont+MaterialTextField.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = "UIFont+MaterialTextField.m"; path = "CustomField/Classes/UIFont+MaterialTextField.m"; sourceTree = "<group>"; };
-		4B9F7FC92407176300A30C3F /* LRTextField.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = LRTextField.m; path = CustomField/Classes/LRTextField.m; sourceTree = "<group>"; };
-		4B9F7FCA2407176300A30C3F /* UIImage+MFTint.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = "UIImage+MFTint.m"; path = "CustomField/Classes/UIImage+MFTint.m"; sourceTree = "<group>"; };
-		4B9F7FCB2407176300A30C3F /* UIFont+MaterialTextField.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = "UIFont+MaterialTextField.h"; path = "CustomField/Classes/UIFont+MaterialTextField.h"; sourceTree = "<group>"; };
-		4B9F7FCC2407176300A30C3F /* UITextField+MFClearButton.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = "UITextField+MFClearButton.h"; path = "CustomField/Classes/UITextField+MFClearButton.h"; sourceTree = "<group>"; };
-		4B9F7FCD2407176400A30C3F /* LRTextField.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = LRTextField.h; path = CustomField/Classes/LRTextField.h; sourceTree = "<group>"; };
-		4B9F7FCE2407176400A30C3F /* MFTextField.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = MFTextField.h; path = CustomField/Classes/MFTextField.h; sourceTree = "<group>"; };
-		4B9F7FCF2407176400A30C3F /* UIColor+MaterialTextField.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = "UIColor+MaterialTextField.m"; path = "CustomField/Classes/UIColor+MaterialTextField.m"; sourceTree = "<group>"; };
-		4B9F7FD12407176400A30C3F /* UIImage+MFTint.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = "UIImage+MFTint.h"; path = "CustomField/Classes/UIImage+MFTint.h"; sourceTree = "<group>"; };
-		4B9F7FD22407176400A30C3F /* MaterialTextField.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = MaterialTextField.h; path = CustomField/Classes/MaterialTextField.h; sourceTree = "<group>"; };
-		4B9F7FD32407176400A30C3F /* MFTextField.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = MFTextField.m; path = CustomField/Classes/MFTextField.m; sourceTree = "<group>"; };
-		4B9F7FD42407176400A30C3F /* CustomTextField.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = CustomTextField.h; path = CustomField/Classes/CustomTextField.h; sourceTree = "<group>"; };
-		4B9F7FD52407176400A30C3F /* UITextField+MFClearButton.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = "UITextField+MFClearButton.m"; path = "CustomField/Classes/UITextField+MFClearButton.m"; sourceTree = "<group>"; };
-		4B9F7FD62407176400A30C3F /* UIColor+MaterialTextField.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = "UIColor+MaterialTextField.h"; path = "CustomField/Classes/UIColor+MaterialTextField.h"; sourceTree = "<group>"; };
+		4B9F7FE624071D0D00A30C3F /* MaterialTextField.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = MaterialTextField.h; path = CustomField/MaterialTextField.h; sourceTree = "<group>"; };
+		4B9F7FE724071D0D00A30C3F /* UIColor+MaterialTextField.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = "UIColor+MaterialTextField.h"; path = "CustomField/UIColor+MaterialTextField.h"; sourceTree = "<group>"; };
+		4B9F7FE824071D0D00A30C3F /* UIColor+MaterialTextField.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = "UIColor+MaterialTextField.m"; path = "CustomField/UIColor+MaterialTextField.m"; sourceTree = "<group>"; };
+		4B9F7FE924071D0D00A30C3F /* LRTextField.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = LRTextField.m; path = CustomField/LRTextField.m; sourceTree = "<group>"; };
+		4B9F7FEA24071D0D00A30C3F /* UIImage+MFTint.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = "UIImage+MFTint.m"; path = "CustomField/UIImage+MFTint.m"; sourceTree = "<group>"; };
+		4B9F7FEB24071D0D00A30C3F /* UITextField+MFClearButton.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = "UITextField+MFClearButton.h"; path = "CustomField/UITextField+MFClearButton.h"; sourceTree = "<group>"; };
+		4B9F7FEC24071D0D00A30C3F /* LRTextField.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = LRTextField.h; path = CustomField/LRTextField.h; sourceTree = "<group>"; };
+		4B9F7FED24071D0D00A30C3F /* UITextField+MFClearButton.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = "UITextField+MFClearButton.m"; path = "CustomField/UITextField+MFClearButton.m"; sourceTree = "<group>"; };
+		4B9F7FEE24071D0D00A30C3F /* MFTextField.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = MFTextField.h; path = CustomField/MFTextField.h; sourceTree = "<group>"; };
+		4B9F7FEF24071D0E00A30C3F /* UIImage+MFTint.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = "UIImage+MFTint.h"; path = "CustomField/UIImage+MFTint.h"; sourceTree = "<group>"; };
+		4B9F7FF024071D0E00A30C3F /* CustomTextField.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = CustomTextField.h; path = CustomField/CustomTextField.h; sourceTree = "<group>"; };
+		4B9F7FF124071D0E00A30C3F /* UIFont+MaterialTextField.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = "UIFont+MaterialTextField.m"; path = "CustomField/UIFont+MaterialTextField.m"; sourceTree = "<group>"; };
+		4B9F7FF224071D0E00A30C3F /* MFTextField.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = MFTextField.m; path = CustomField/MFTextField.m; sourceTree = "<group>"; };
+		4B9F7FF324071D0E00A30C3F /* UIFont+MaterialTextField.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = "UIFont+MaterialTextField.h"; path = "CustomField/UIFont+MaterialTextField.h"; sourceTree = "<group>"; };
 		684410BF1CE6AF9396537E21C2B984F6 /* CustomField.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = CustomField.modulemap; sourceTree = "<group>"; };
 		72584DFD79D3ABABC2686B999E8110D2 /* Pods-CustomField_Tests-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-CustomField_Tests-frameworks.sh"; sourceTree = "<group>"; };
 		74B1007E6EBD96066D09965CCE0200D5 /* Pods-CustomField_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-CustomField_Tests.debug.xcconfig"; sourceTree = "<group>"; };
@@ -99,30 +99,23 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		4B9F7FC72407173300A30C3F /* Classes */ = {
-			isa = PBXGroup;
-			children = (
-				4B9F7FD42407176400A30C3F /* CustomTextField.h */,
-				4B9F7FCD2407176400A30C3F /* LRTextField.h */,
-				4B9F7FC92407176300A30C3F /* LRTextField.m */,
-				4B9F7FD22407176400A30C3F /* MaterialTextField.h */,
-				4B9F7FCE2407176400A30C3F /* MFTextField.h */,
-				4B9F7FD32407176400A30C3F /* MFTextField.m */,
-				4B9F7FD62407176400A30C3F /* UIColor+MaterialTextField.h */,
-				4B9F7FCF2407176400A30C3F /* UIColor+MaterialTextField.m */,
-				4B9F7FCB2407176300A30C3F /* UIFont+MaterialTextField.h */,
-				4B9F7FC82407176300A30C3F /* UIFont+MaterialTextField.m */,
-				4B9F7FD12407176400A30C3F /* UIImage+MFTint.h */,
-				4B9F7FCA2407176300A30C3F /* UIImage+MFTint.m */,
-				4B9F7FCC2407176300A30C3F /* UITextField+MFClearButton.h */,
-				4B9F7FD52407176400A30C3F /* UITextField+MFClearButton.m */,
-			);
-			name = Classes;
-			sourceTree = "<group>";
-		};
 		814C616266311471454AA060C133F348 /* CustomField */ = {
 			isa = PBXGroup;
 			children = (
+				4B9F7FF024071D0E00A30C3F /* CustomTextField.h */,
+				4B9F7FEC24071D0D00A30C3F /* LRTextField.h */,
+				4B9F7FE924071D0D00A30C3F /* LRTextField.m */,
+				4B9F7FE624071D0D00A30C3F /* MaterialTextField.h */,
+				4B9F7FEE24071D0D00A30C3F /* MFTextField.h */,
+				4B9F7FF224071D0E00A30C3F /* MFTextField.m */,
+				4B9F7FE724071D0D00A30C3F /* UIColor+MaterialTextField.h */,
+				4B9F7FE824071D0D00A30C3F /* UIColor+MaterialTextField.m */,
+				4B9F7FF324071D0E00A30C3F /* UIFont+MaterialTextField.h */,
+				4B9F7FF124071D0E00A30C3F /* UIFont+MaterialTextField.m */,
+				4B9F7FEF24071D0E00A30C3F /* UIImage+MFTint.h */,
+				4B9F7FEA24071D0D00A30C3F /* UIImage+MFTint.m */,
+				4B9F7FEB24071D0D00A30C3F /* UITextField+MFClearButton.h */,
+				4B9F7FED24071D0D00A30C3F /* UITextField+MFClearButton.m */,
 				AB0BAACB04259129F960A95A807EAB05 /* Pod */,
 				D98BE13AB7DF05CA582B1CAD7FDF4CA9 /* Support Files */,
 			);
@@ -133,7 +126,6 @@
 		AB0BAACB04259129F960A95A807EAB05 /* Pod */ = {
 			isa = PBXGroup;
 			children = (
-				4B9F7FC72407173300A30C3F /* Classes */,
 				37121DBE8D27419350A24F6B2D8AC66B /* CustomField.podspec */,
 				3FE207CA81F209B9C498831BF5699D96 /* LICENSE */,
 				113E61ADC692A6C7AB99A1B3FEF1AA69 /* README.md */,
@@ -232,15 +224,15 @@
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				4B9F7FDA2407176400A30C3F /* UIFont+MaterialTextField.h in Headers */,
+				4B9F7FF524071D0E00A30C3F /* UIColor+MaterialTextField.h in Headers */,
+				4B9F7FFC24071D0E00A30C3F /* MFTextField.h in Headers */,
+				4B9F7FF924071D0E00A30C3F /* UITextField+MFClearButton.h in Headers */,
+				4B9F7FFE24071D0E00A30C3F /* CustomTextField.h in Headers */,
+				4B9F7FFD24071D0E00A30C3F /* UIImage+MFTint.h in Headers */,
 				4CB6AC63A9FCB4528FE02C8309E635CC /* CustomField-umbrella.h in Headers */,
-				4B9F7FE12407176400A30C3F /* MaterialTextField.h in Headers */,
-				4B9F7FE52407176400A30C3F /* UIColor+MaterialTextField.h in Headers */,
-				4B9F7FE32407176400A30C3F /* CustomTextField.h in Headers */,
-				4B9F7FDD2407176400A30C3F /* MFTextField.h in Headers */,
-				4B9F7FDC2407176400A30C3F /* LRTextField.h in Headers */,
-				4B9F7FE02407176400A30C3F /* UIImage+MFTint.h in Headers */,
-				4B9F7FDB2407176400A30C3F /* UITextField+MFClearButton.h in Headers */,
+				4B9F7FF424071D0E00A30C3F /* MaterialTextField.h in Headers */,
+				4B9F800124071D0E00A30C3F /* UIFont+MaterialTextField.h in Headers */,
+				4B9F7FFA24071D0E00A30C3F /* LRTextField.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -342,13 +334,13 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				4B9F7FD82407176400A30C3F /* LRTextField.m in Sources */,
-				4B9F7FDE2407176400A30C3F /* UIColor+MaterialTextField.m in Sources */,
-				4B9F7FE22407176400A30C3F /* MFTextField.m in Sources */,
-				4B9F7FD92407176400A30C3F /* UIImage+MFTint.m in Sources */,
+				4B9F7FF724071D0E00A30C3F /* LRTextField.m in Sources */,
+				4B9F7FF824071D0E00A30C3F /* UIImage+MFTint.m in Sources */,
+				4B9F800024071D0E00A30C3F /* MFTextField.m in Sources */,
+				4B9F7FFB24071D0E00A30C3F /* UITextField+MFClearButton.m in Sources */,
+				4B9F7FF624071D0E00A30C3F /* UIColor+MaterialTextField.m in Sources */,
 				D388687C004EB23DE7874C843EAFC16B /* CustomField-dummy.m in Sources */,
-				4B9F7FE42407176400A30C3F /* UITextField+MFClearButton.m in Sources */,
-				4B9F7FD72407176400A30C3F /* UIFont+MaterialTextField.m in Sources */,
+				4B9F7FFF24071D0E00A30C3F /* UIFont+MaterialTextField.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
